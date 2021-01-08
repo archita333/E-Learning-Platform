@@ -1,0 +1,31 @@
+
+/*css file for showcart page*/
+.head1{
+
+	background-color: blue;
+}
+.headb1{
+
+	background-color: white;
+	color: blue;
+	margin: 1%;
+
+}
+#top2{
+
+width: 100%;
+
+
+}
+#top2 button{
+
+	color: blue;
+	padding: 2px;
+	background-color: white;
+	margin: 1px;
+}
+.buttonrem{
+
+	background-color: blue;
+	color: white;
+}

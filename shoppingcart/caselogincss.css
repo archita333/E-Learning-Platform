@@ -1,0 +1,50 @@
+h1{
+
+	
+       
+       text-align: center;
+       padding: 6%;
+       text-decoration-color: blue;
+}
+#firstline{
+color: blue;
+font-size: 100px;
+
+
+
+}
+#box button{
+
+	width: 10%;
+	background-color: white;
+	color: blue;
+
+}
+#box{
+
+display: block;
+background-color: lightblue;
+margin: 2%;
+text-align: center;
+padding: 2%;
+margin-left: 8%;
+
+
+}
+/*sign up page css*/
+#box2{
+display: block;
+background-color: lightblue;
+margin: 2%;
+text-align: center;
+padding: 2%;
+margin-left: 2%;
+
+
+
+
+}
+#fline{
+
+	color: blue;
+}
